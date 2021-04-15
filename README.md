@@ -9,3 +9,5 @@ Project Scripts done in Python:
 **Clock Window** - Clock Window in Tkinter that shows the current time.
 
 **Stock Window** - Stock Window in Tkinter that shows the current price of a stock through an API.
+
+**Turtle Race** - Game with Turtle module that simulate a race with turtles.
