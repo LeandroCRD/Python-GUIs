@@ -1,4 +1,4 @@
-# PythonScripts
+# Python GUIs
 
 Project Scripts done in Python:
 
