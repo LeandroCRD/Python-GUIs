@@ -12,7 +12,7 @@ Graphic User Interfances project done in Python:
 <img src = "Clock Window/ClockWindow.png" width=150>
 
 **Stock Window** - Stock Window in Tkinter that shows the current price of a stock through an API.  
-<img src = "StockWindow/StockWindow.PNG" width=150>
+<img src = "Stock Window/StockWindow.PNG" width=150>
 
 **Turtle Race** - Game with Turtle module that simulate a race with turtles.  
-![TurtleRace](TurtleRace.PNG)
+<img src = "Turtle Race/TurtleRace.PNG" width=150>
