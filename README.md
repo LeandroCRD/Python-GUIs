@@ -6,6 +6,7 @@ Project Scripts done in Python:
 ![Automatic Counter](Automatic Counter.PNG)
 
 **Manual Counter** - Counter Window in Tkinter that manual count from 0 to 99.
+![ManualCounter](ManualCounter.PNG)
 
 **Clock Window** - Clock Window in Tkinter that shows the current time.
 
