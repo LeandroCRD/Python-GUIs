@@ -3,7 +3,7 @@
 Project Scripts done in Python:
 
 **Automatic Counter** - Counter Window in Tkinter that automatic count from 0 to 99.
-![Automatic Counter](Automatic Counter.png)
+![Automatic Counter](Automatic Counter.PNG)
 
 **Manual Counter** - Counter Window in Tkinter that manual count from 0 to 99.
 
