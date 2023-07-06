@@ -29,9 +29,13 @@ def visio():
     stock1 = si.get_live_price("TSLA")
     x = float("%.2f" % stock1)
     x1 = float(stock1)
-    money = 1.53846 * stock1
-    perc = round((((stock1 - 650) / 650)*100),2)
+    money = 1.53846 * abs(stock1)
+    perc = round((((stock1 - 270) / 270)*100),2)
     print("%.2f" % stock1)
+    print(money)
+    print(x)
+    print(x1)
+    print(y)
     
     #Conditional to Print in Window Stock Price in Green or Red Color
     if y > x:
@@ -41,7 +45,7 @@ def visio():
         label.grid(row=2,column=1, sticky = E, padx=10)
         label=Label(root,font=("alarm clock",8,"bold"),text="+" + "%.2f" % perc + "   ",bg='black',fg="green",bd=0, height=1, padx=0, pady=0)
         label.grid(row=3,column=1, sticky = E, padx=10, pady = 5)
-        label=Label(root,font=("alarm clock",8,"bold"),text=("%.2f" % money) + "  ",bg='black',fg="green",bd=0, height=1, padx=0, pady=0)
+        label=Label(root,font=("alarm clock",8,"bold"),text=("%.2f" % money) + "   ",bg='black',fg="green",bd=0, height=1, padx=0, pady=0)
         label.grid(row=4,column=1, sticky = E, padx=13, pady=2)
         label.after(2000,visio)
     else:
