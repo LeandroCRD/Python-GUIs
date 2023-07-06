@@ -9,10 +9,10 @@ Project Scripts done in Python:
 ![ManualCounter](ManualCounter.PNG)
 
 **Clock Window** - Clock Window in Tkinter that shows the current time.  
-![ClockWindow](ClockWindow.PNG)
+![ClockWindow](ClockWindow.png)
 
 **Stock Window** - Stock Window in Tkinter that shows the current price of a stock through an API.  
-![StockWindow](StockWindow.png)
+![StockWindow](StockWindow.PNG)
 
 **Turtle Race** - Game with Turtle module that simulate a race with turtles.  
 ![TurtleRace](TurtleRace.PNG)
