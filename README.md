@@ -12,7 +12,7 @@ Project Scripts done in Python:
 ![ClockWindow](ClockWindow.PNG)
 
 **Stock Window** - Stock Window in Tkinter that shows the current price of a stock through an API.  
-![StockWindow](StockWindow.PNG)
+![StockWindow](StockWindow.png)
 
 **Turtle Race** - Game with Turtle module that simulate a race with turtles.  
 ![TurtleRace](TurtleRace.PNG)
