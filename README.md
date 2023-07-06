@@ -9,10 +9,10 @@ Graphic User Interfances project done in Python:
 <img src = "Manual Counter/ManualCounter.PNG" width=150>
 
 **Clock Window** - Clock Window in Tkinter that shows the current time.  
-<img src = "Clock Window/Clock Window.png" width=150>
+<img src = "Clock Window/ClockWindow.png" width=150>
 
 **Stock Window** - Stock Window in Tkinter that shows the current price of a stock through an API.  
-<img src = "Stock Window/StockWindow.PNG" width=150>
+<img src = "StockWindow/StockWindow.PNG" width=150>
 
 **Turtle Race** - Game with Turtle module that simulate a race with turtles.  
 ![TurtleRace](TurtleRace.PNG)
