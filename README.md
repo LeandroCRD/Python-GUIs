@@ -1,6 +1,6 @@
 # Python GUIs
 
-Project Scripts done in Python:
+Graphic User Interfances project done in Python:
 
 **Automatic Counter** - Counter Window in Tkinter that automatic count from 0 to 99.  
 ![AutomaticCounter](AutomaticCounter.PNG)
