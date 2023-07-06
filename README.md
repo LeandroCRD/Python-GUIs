@@ -3,7 +3,7 @@
 Graphic User Interfances project done in Python:
 
 **Automatic Counter** - Counter Window in Tkinter that automatic count from 0 to 99.  
-<img src = "Automatic Counter/AutomaticCounter.PNG" width=200>
+<img src = "Automatic Counter/AutomaticCounter.PNG" width=100>
 
 **Manual Counter** - Counter Window in Tkinter that manual count from 0 to 99.  
 ![ManualCounter](ManualCounter.PNG)
